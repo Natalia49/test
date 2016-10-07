@@ -1,0 +1,6 @@
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

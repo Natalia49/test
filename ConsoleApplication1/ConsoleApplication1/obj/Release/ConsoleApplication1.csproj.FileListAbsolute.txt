@@ -1,0 +1,8 @@
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\bin\Release\MySql.Data.dll
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\bin\Release\MySql.Data.xml
+D:\Studing University\Numerical Methods\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
